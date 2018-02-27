@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+	@*<link href="~/Content/shop-homepage.css" rel="stylesheet" />*@
+
+	@*<link href="~/Content/bootstrap-theme.min.css" rel="stylesheet" />*@
+	<link href="~/Content/Site.css" rel="stylesheet" />
+	<link href="~/Content/bootstrap-lux.min.css" rel="stylesheet" />
+	@*<link href="~/Content/bootstrap-grid.css" rel="stylesheet" />
+	<link href="~/Content/bootstrap-grid.min.css" rel="stylesheet" />
+	<link href="~/Content/bootstrap-reboot.css" rel="stylesheet" />
+	<link href="~/Content/bootstrap-reboot.min.css" rel="stylesheet" />*@
+
+	<title>@ViewBag.Title</title> 
+</head>
+<body>   
+	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+		<a class="navbar-brand" href="#">		
+			<span class="navbar-toggler-icon">OnlineStore</span>
+
+		</a>
+
+		<div class="collapse navbar-collapse" id="navbarColor02"> 
+			<ul class="nav navbar-nav mr-auto">
+				<li class="nav-item active">
+					<a class="nav-link" href="#">@Html.ActionLink("Домашняя страница", "Index", "Home")<span class="sr-only">(current)</span></a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">@Html.ActionLink("О программе", "About", "Home")</a>				  
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">@Html.ActionLink("Контакт", "Contact", "Home")</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">@Html.ActionLink("Об авторе", "Copyright", "Home")</a>					
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">@Html.ActionLink("Играй - скидку получай", "DiscountGame", "Discount")</a>
+				</li>
+			</ul>
+		</div>
+
+		@if (Request.IsAuthenticated)
+		{
+			@*<div class="nav navbar-nav navbar-right">
+				Welcome @HttpContext.Current.User.Identity.Name
+			</div>*@
+			using (Html.BeginForm("Logout", "User", FormMethod.Post, new { id = "logoutForm" }))
+			{
+				<ul class="nav navbar-nav navbar-right">
+				<li class="nav-item">
+					<a class="nav-link" href="javascript:document.getElementById('logoutForm').submit()">Logout</a>
+                </li>
+				</ul>
+			}
+		}
+		else
+		{
+			<ul class="nav navbar-nav navbar-right">
+				@*<li>@Html.ActionLink("Register", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>*@
+				<li class="nav-item">
+					<a class="nav-link" href="#">@Html.ActionLink("Login", "Login", "User")</a>
+                </li>
+			</ul>
+		}
+
+		@Html.Action("Summary", "Cart")
+	</nav>		
+
+	<div class="visible-xs">
+			@Html.Action("Menu", "Nav", new { horizontalNav = true})
+	</div>
+
+    <div class="row panel">
+		<div id="types" class="col-sm-3 hidden-xs">
+			@Html.Action("Menu", "Nav")
+		</div>
+		<div class="col-xs-12 col-sm-8">
+			@RenderBody()
+		</div>        
+    </div>
+	@RenderSection("Scripts", false)
+</body>
+</html>

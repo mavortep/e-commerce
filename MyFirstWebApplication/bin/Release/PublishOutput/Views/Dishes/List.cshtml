@@ -1,0 +1,15 @@
+﻿@using MyFirstWebApplication.Models
+@model DishListViewModel
+
+@{
+    ViewBag.Title = "Посуда";
+}
+
+@foreach (var dish in Model.Dishes)
+{
+	@Html.Partial("_DishSummary", dish)	
+}
+
+<div class="btn-group" pull-right>
+	@Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { page = x, type = Model.CurrentType}))
+</div>

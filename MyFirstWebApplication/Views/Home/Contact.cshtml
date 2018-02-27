@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<div class="navbar-right visible-xs">
+	<a href=@Url.Action("Contact", "Home", new { returnUrl = Request.Url.PathAndQuery}) class="btn btn-default navbar-btn"></a>
+	<span class="glyphicon glyphicon-shopping-cart"></span>
+</div>
+
+<address>
+    Киев<br />
+    Улица Магнитогорская 1-А<br />
+    <abbr title="Phone">044-233-10-83</abbr>
+	@*<abbr title="Phone">063-233-10-83</abbr>
+	<abbr title="Phone">044-233-80-34</abbr>*@
+</address>
+
+<address>
+    <strong>Елена: </strong>   <a href="mailto:petrovalena7070@gmail.com">petrovalena7070@gmail.com</a><br />
+    @*<strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>*@
+</address>

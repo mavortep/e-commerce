@@ -1,0 +1,68 @@
+﻿@model Domain.Entities.Dish
+
+@{
+	ViewBag.Title = "Админ панель: редактирование товаров";
+	Layout = "~/Views/Shared/_AdminLayout.cshtml";
+	//HtmlHelper.ClientValidationEnabled = false;
+	//HtmlHelper.UnobtrusiveJavaScriptEnabled = false;
+}
+
+<div class="panel">
+	<div class="panel-heading">
+		<h3>Редактирование товара "@Model.Style"</h3>
+	</div>
+
+	@using (Html.BeginForm())
+	{
+		<div class="panel-body">
+			@Html.HiddenFor(m => m.DishId)
+			@foreach (var property in ViewData.ModelMetadata.Properties)
+			{
+				if (property.PropertyName != "DishId")
+				{
+					<div class="form-group">
+					<label>@(property.DisplayName ?? property.PropertyName)</label>
+					@if (property.PropertyName == "Description")
+					{
+						@Html.TextArea(property.PropertyName, null, new { @class = "form-control", rows = 5 })
+					}
+					@*else if (property.PropertyName == "ImageUrl")
+					{
+						
+						
+						<br /> <b />
+
+						using (Html.BeginForm("SaveImages", "Upload", FormMethod.Post, new { enctype = "multipart/form-data" }))
+						{
+							<div>
+								@Html.TextBox("UploadedImage", "", new { type = "file" })
+
+								<input type="submit" value="Upload" />
+
+								@{
+									if (ViewBag.Message != null)
+									{
+										@ViewBag.Message
+									}
+								}
+
+							</div>
+						}
+					}*@
+					else
+					{
+						@Html.TextBox(property.PropertyName, null, new { @class = "form-control" })
+					}
+					@Html.ValidationMessage(property.PropertyName)
+					</div>
+				}
+			}
+		</div>
+
+		<div class="panel-footer">
+			<input type="submit" value="Сохранить" class="btn btn-primary"/>
+			@Html.ActionLink("Отмена", "Index", null, new { @class = "btn btn-default"})
+		</div>		
+	}
+</div>
+

@@ -1,0 +1,126 @@
+body {
+  background: #444;
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 100;
+}
+
+label {
+  font-family: arial;
+  font-size: .8em;
+}
+
+ul {
+  position: absolute;
+  padding: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  list-style-type: none;
+  width: 690px;
+  height: 100px;
+}
+ul li {
+  float: left;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  margin-right: 10px;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+  font-size: 36px;
+}
+ul li:nth-child(5n) {
+  margin-right: 40px;
+}
+
+.ball-placeholder {
+  background: #222222;
+  background: -moz-linear-gradient(-45deg, #222222 0%, black 100%);
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #222222), color-stop(100%, black));
+  background: -webkit-linear-gradient(-45deg, #222222 0%, black 100%);
+  background: -o-linear-gradient(-45deg, #222222 0%, black 100%);
+  background: -ms-linear-gradient(-45deg, #222222 0%, black 100%);
+  background: linear-gradient(135deg, #222222 0%, black 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#222222', endColorstr='#000000',GradientType=1 );
+}
+
+.lottery-ball-blue {
+  background: red;
+  background: -moz-linear-gradient(-45deg, red 0%, #a50000 100%);
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, red), color-stop(100%, #a50000));
+  background: -webkit-linear-gradient(-45deg, red 0%, #a50000 100%);
+  background: -o-linear-gradient(-45deg, red 0%, #a50000 100%);
+  background: -ms-linear-gradient(-45deg, red 0%, #a50000 100%);
+  background: linear-gradient(135deg, red 0%, #a50000 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0000', endColorstr='#a50000',GradientType=1 );
+  color: white;
+}
+.lottery-ball-blue:last-child {
+  background: #a50000;
+  background: -moz-linear-gradient(-45deg, #a50000 0%, #5e0000 100%);
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #a50000), color-stop(100%, #5e0000));
+  background: -webkit-linear-gradient(-45deg, #a50000 0%, #5e0000 100%);
+  background: -o-linear-gradient(-45deg, #a50000 0%, #5e0000 100%);
+  background: -ms-linear-gradient(-45deg, #a50000 0%, #5e0000 100%);
+  background: linear-gradient(135deg, #a50000 0%, #5e0000 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9aa500', endColorstr='#465e00',GradientType=1 );
+}
+
+.lottery-ball {
+  background: red;
+  background: -moz-linear-gradient(-45deg, red 0%, #a50000 100%);
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, red), color-stop(100%, #a50000));
+  background: -webkit-linear-gradient(-45deg, red 0%, #a50000 100%);
+  background: -o-linear-gradient(-45deg, red 0%, #a50000 100%);
+  background: -ms-linear-gradient(-45deg, red 0%, #a50000 100%);
+  background: linear-gradient(135deg, red 0%, #a50000 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0000', endColorstr='#a50000',GradientType=1 );
+  color: white;
+}
+.lottery-ball:last-child {
+  background: #a50000;
+  background: -moz-linear-gradient(-45deg, #a50000 0%, #5e0000 100%);
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #a50000), color-stop(100%, #5e0000));
+  background: -webkit-linear-gradient(-45deg, #a50000 0%, #5e0000 100%);
+  background: -o-linear-gradient(-45deg, #a50000 0%, #5e0000 100%);
+  background: -ms-linear-gradient(-45deg, #a50000 0%, #5e0000 100%);
+  background: linear-gradient(135deg, #a50000 0%, #5e0000 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a50000', endColorstr='#5e0000',GradientType=1 );
+}
+
+.next-ball, .play-again {
+  position: absolute;
+  right: 0;
+  left: 0;
+  margin: auto;
+  border: 0;
+  color: white;
+}
+
+.next-ball {
+  bottom: 20px;
+  width: 100px;
+  height: 40px;
+  font-size: 16px;
+  background: #7ac9ed;
+}
+
+.play-again {
+  display: none;
+  bottom: 20px;
+  width: 200px;
+  height: 80px;
+  font-size: 24px;
+  background: #d74d2f;
+}
+
+.plate {
+  background-image: url("https://78.media.tumblr.com/d37f3cd25cb911eb6da276088252d115/tumblr_olxk3vFYTj1soankoo2_500.jpg");
+  background-repeat: no-repeat;
+  background-position: 50% 0,5px;
+  background-size: 120px 120px;
+}

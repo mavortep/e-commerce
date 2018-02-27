@@ -1,0 +1,363 @@
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\ApplicationInsights.config
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\csc.exe
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\csc.exe.config
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\csc.rsp
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\csi.exe
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\csi.rsp
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\System.AppContext.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\System.Collections.Immutable.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\System.IO.FileSystem.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\vbc.exe
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\vbc.exe.config
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\vbc.rsp
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\VBCSCompiler.exe
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\roslyn\VBCSCompiler.exe.config
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\MyFirstWebApplication.dll.config
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\MyFirstWebApplication.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\MyFirstWebApplication.pdb
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\Antlr3.Runtime.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\Microsoft.AI.Web.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\Microsoft.AI.WindowsServer.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\Microsoft.ApplicationInsights.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\Microsoft.Web.Infrastructure.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\Newtonsoft.Json.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\System.Web.Helpers.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\System.Web.Mvc.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\System.Web.Optimization.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\System.Web.Razor.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\System.Web.WebPages.Deployment.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\System.Web.WebPages.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\System.Web.WebPages.Razor.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\WebGrease.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\System.Web.Helpers.xml
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\System.Web.Mvc.xml
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\System.Web.Optimization.xml
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\System.Web.Razor.xml
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\System.Web.WebPages.xml
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\System.Web.WebPages.Deployment.xml
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\System.Web.WebPages.Razor.xml
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\Antlr3.Runtime.pdb
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\Newtonsoft.Json.xml
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\Microsoft.ApplicationInsights.xml
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\Microsoft.AI.WindowsServer.xml
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\Microsoft.AI.Web.xml
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\ru\System.Web.Helpers.resources.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\ru\System.Web.Mvc.resources.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\ru\System.Web.Optimization.resources.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\ru\System.Web.Razor.resources.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\ru\System.Web.WebPages.resources.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\obj\Debug\MyFirstWebApplication.csprojResolveAssemblyReference.cache
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\obj\Debug\MyFirstWebApplication.dll
+c:\users\win7\documents\visual studio 2017\Projects\MyFirstWebApplication\MyFirstWebApplication\obj\Debug\MyFirstWebApplication.pdb
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\ApplicationInsights.config
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\csc.exe
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\csc.exe.config
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\csc.rsp
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\csi.exe
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\csi.rsp
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\vbc.exe
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\vbc.exe.config
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\vbc.rsp
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\MyFirstWebApplication.dll.config
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\MyFirstWebApplication.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\MyFirstWebApplication.pdb
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Antlr3.Runtime.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Castle.Core.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Domain.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\EntityFramework.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Microsoft.AI.Web.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Moq.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Newtonsoft.Json.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Ninject.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Ninject.Web.Common.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Ninject.Web.Mvc.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\System.Web.Helpers.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\System.Web.Mvc.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\System.Web.Optimization.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\System.Web.Razor.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\System.Web.WebPages.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\WebActivatorEx.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\WebGrease.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Domain.pdb
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Domain.dll.config
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Castle.Core.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\EntityFramework.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Moq.pdb
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Moq.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Ninject.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Ninject.Web.Common.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Ninject.Web.Mvc.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\System.Web.Helpers.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\System.Web.Mvc.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\System.Web.Optimization.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\System.Web.Razor.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\System.Web.WebPages.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Newtonsoft.Json.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\Microsoft.AI.Web.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\obj\Debug\MyFirstWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\obj\Debug\MyFirstWebApplication.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\obj\Debug\MyFirstWebApplication.pdb
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\obj\Debug\MyFirstWebApplication.Properties.Resources.resources
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\OnlineStore\MyFirstWebApplication\obj\Debug\MyFirstWebApplication.csproj.GenerateResource.Cache
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\ApplicationInsights.config
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\csc.exe
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\csc.exe.config
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\csc.rsp
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\csi.exe
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\csi.rsp
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\vbc.exe
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\vbc.exe.config
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\vbc.rsp
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\MyFirstWebApplication.dll.config
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\MyFirstWebApplication.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\MyFirstWebApplication.pdb
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Antlr3.Runtime.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Castle.Core.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Domain.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\EntityFramework.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Microsoft.AI.Web.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Moq.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Newtonsoft.Json.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Ninject.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Ninject.Web.Common.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Ninject.Web.Mvc.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\System.Web.Helpers.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\System.Web.Mvc.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\System.Web.Optimization.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\System.Web.Razor.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\System.Web.WebPages.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\WebActivatorEx.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\WebGrease.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Domain.pdb
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Domain.dll.config
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Castle.Core.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\EntityFramework.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Moq.pdb
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Moq.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Ninject.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Ninject.Web.Common.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Ninject.Web.Mvc.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\System.Web.Helpers.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\System.Web.Mvc.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\System.Web.Optimization.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\System.Web.Razor.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\System.Web.WebPages.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Newtonsoft.Json.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\Microsoft.AI.Web.xml
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\ru\EntityFramework.resources.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\obj\Debug\MyFirstWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\obj\Debug\MyFirstWebApplication.Properties.Resources.resources
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\obj\Debug\MyFirstWebApplication.csproj.GenerateResource.Cache
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\obj\Debug\MyFirstWebApplication.dll
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\obj\Debug\MyFirstWebApplication.pdb
+C:\Users\Win7\Documents\Visual Studio 2017\Projects\e-commerce-master\MyFirstWebApplication\obj\Debug\MyFirstWebApplication.csproj.CoreCompileInputs.cache
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\ApplicationInsights.config
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\csc.exe
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\csc.exe.config
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\csc.rsp
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\csi.exe
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\csi.rsp
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\System.AppContext.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\System.Collections.Immutable.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\System.IO.FileSystem.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\vbc.exe
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\vbc.exe.config
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\vbc.rsp
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\VBCSCompiler.exe
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\roslyn\VBCSCompiler.exe.config
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\MyFirstWebApplication.dll.config
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\MyFirstWebApplication.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\MyFirstWebApplication.pdb
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Antlr3.Runtime.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Castle.Core.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Domain.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\EntityFramework.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\EntityFramework.SqlServer.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Microsoft.AI.Web.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Microsoft.AI.WindowsServer.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Microsoft.ApplicationInsights.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Microsoft.Web.Infrastructure.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Moq.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Newtonsoft.Json.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Ninject.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Ninject.Web.Common.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Ninject.Web.Mvc.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\System.Web.Helpers.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\System.Web.Mvc.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\System.Web.Optimization.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\System.Web.Razor.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\System.Web.WebPages.Deployment.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\System.Web.WebPages.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\System.Web.WebPages.Razor.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\WebActivatorEx.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\WebGrease.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Domain.pdb
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Domain.dll.config
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Castle.Core.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\EntityFramework.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\EntityFramework.SqlServer.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Moq.pdb
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Moq.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Ninject.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Ninject.Web.Common.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Ninject.Web.Mvc.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\System.Web.Helpers.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\System.Web.Mvc.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\System.Web.Optimization.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\System.Web.Razor.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\System.Web.WebPages.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\System.Web.WebPages.Deployment.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\System.Web.WebPages.Razor.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Antlr3.Runtime.pdb
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Newtonsoft.Json.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Microsoft.ApplicationInsights.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Microsoft.AI.WindowsServer.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\Microsoft.AI.Web.xml
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\ru\EntityFramework.resources.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\ru\System.Web.Helpers.resources.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\ru\System.Web.Mvc.resources.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\ru\System.Web.Optimization.resources.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\ru\System.Web.Razor.resources.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\ru\System.Web.WebPages.resources.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\obj\Debug\MyFirstWebApplication.csprojResolveAssemblyReference.cache
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\obj\Debug\MyFirstWebApplication.Properties.Resources.resources
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\obj\Debug\MyFirstWebApplication.csproj.GenerateResource.Cache
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\obj\Debug\MyFirstWebApplication.csproj.CoreCompileInputs.cache
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\obj\Debug\MyFirstWebApplication.dll
+F:\Documents\KPI\III\Курсач\CD\e-commerce\MyFirstWebApplication\obj\Debug\MyFirstWebApplication.pdb
